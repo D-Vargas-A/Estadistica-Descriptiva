@@ -26,4 +26,5 @@ sns.histplot(datos, bins=5, kde=False)  # histograma con seaborn
 plt.title("Histograma: tiempos de carga")
 plt.xlabel("Tiempo (s)")
 plt.ylabel("Frecuencia")
+
 plt.show()
