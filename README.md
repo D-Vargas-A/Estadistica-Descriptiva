@@ -6,5 +6,5 @@
 - *Juan Felipe Wilches Gomez* - 20231020137
 
 *Course*: Probabilidad y Estadistica  
-*Professor*: Alberto Acosta Lopez 
+*Professor*: Alberto Acosta Lopez  
 *Institution*: Universidad Distrital Francisco José de Caldas
